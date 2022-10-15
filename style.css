@@ -1,0 +1,129 @@
+.showcase {
+  background-image: url('images/free-abstract-background-11-vector.jpg');
+  background-position: center;
+  background-repeat: none;
+  font-size: 87px;
+  font-display: inline;
+  text-align:center;
+  display:block;
+}
+
+#intro {
+ background-color: lightblue;
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px lightblue solid;
+}
+
+#intro2 {
+ background-color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px lightblue solid;
+}
+
+#navbar {
+  background-color: #333;
+  color: white;
+}
+
+#navbar ul {
+  padding: 0;
+  list-style: none;
+}
+
+#navbar li {
+  display: inline;
+}
+
+#navbar a {
+  color: white;
+  text-decoration: none;
+  font-size: 23px;
+  padding-right: 15px;
+}
+html{
+  background-image: url('images/ffXpm9o.jpg');
+}
+
+
+#list {
+  list-style-type: decimal;
+}
+
+#list2 {
+  list-style-type: none;
+}
+
+.IMG {
+filter: blur(19px);
+  -webkit-filter: blur(8px);
+}
+
+.IMG2 {
+  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+
+.Text {
+text-align: center;
+font-size: 50px;
+}
+
+#Rules {
+  font-size: 75px;
+  text-align: center;
+}
+
+#RulesCenter {
+  text-align: center;
+}
+
+#DivCenter {
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#navbar2 {
+  color: red;
+  text-align: center;
+}
+
+#navbar2 li {
+  display: inline;
+}
+
+#navbar2 a {
+  color: black;
+  text-decoration: none;
+  font-size: 23px;
+  padding-right: 15px;
+}
+
+
+#navbar3 {
+  background-color: #333;
+  color: red;
+}
+
+#navbar3 ul {
+  padding: 0;
+  list-style: none;
+}
+
+#navbar3 li {
+  display: inline;
+}
+
+#navbar3 a {
+  color: white;
+  text-decoration: none;
+  font-size: 23px;
+  padding-right: 15px;
+}
